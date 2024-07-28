@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SantanderBootcamp2024Application {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SantanderBootcamp2024Application.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
